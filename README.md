@@ -37,7 +37,7 @@ Para usar este proyecto:
 1. inicializa Postgres
 2. Instalar DBeaver o DataGrip para administrar las bases de datos
 3. Ejecuta `main.py` para ver los ejemplos de carga de datos.
-4. Utiliza los modelos en `infrastructure/db/models` para interactuar con tu base de datos.
+4. Utiliza los metodos en `main.py` para interactuar con tu base de datos.
 
 ## Contribuir
 
